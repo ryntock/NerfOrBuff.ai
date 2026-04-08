@@ -1,0 +1,9 @@
+# Environnement virtuel
+venv/
+.env
+__pycahe__/
+
+# Node modules
+node_modules/
+dist/
+.DS_Store
